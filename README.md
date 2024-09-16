@@ -37,7 +37,7 @@ docker-compose up -d
 ```
 docker exec -it backend /bin/bash
 npm run populate-db
-``1
+```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
